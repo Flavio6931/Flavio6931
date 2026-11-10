@@ -2,6 +2,12 @@
 
 Estudiante de **5.º semestre de Ingeniería de Software**. Mi fuerte es **Python**, y construyo mis proyectos apoyándome en la inteligencia artificial (*vibe coding*): yo pongo la idea y el criterio, la IA me ayuda a llegar más lejos y más rápido.
 
+## 💻 Stack Visual
+
+Aquí tienes una vista rápida de las tecnologías que utilizo en mis proyectos:
+
+[![Python, Django, PostgreSQL, OpenCV, AWS, JavaScript, TypeScript, HTML, CSS, Git, GitHub, VS Code y Windows](https://skillicons.dev/icons?i=py,django,postgres,opencv,aws,js,ts,html,css,git,github,vscode,windows&perline=13)](https://skillicons.dev)
+
 ## 📫 Contacto
 
 - ✉️ Correo: [alexpc778@gmail.com](mailto:alexpc778@gmail.com)
