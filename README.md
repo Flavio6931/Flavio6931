@@ -1,6 +1,10 @@
 # Hola, soy Flavio 👋
 
-Estudiante de **5.º semestre de Ingeniería de Software**. Mi fuerte es **Python**, y construyo mis proyectos apoyándome en la inteligencia artificial (*vibe coding*): yo pongo la idea y el criterio, la IA me ayuda a llegar más lejos y más rápido.
+Soy estudiante de **5.º semestre de Ingeniería de Software** y me encanta convertir ideas en herramientas que la gente pueda usar de verdad. Mi lenguaje fuerte es **Python**: con él he creado sistemas web con Django y proyectos que usan la cámara para entender lo que pasa a su alrededor. También me he lanzado a crear extensiones de navegador con JavaScript y TypeScript.
+
+Trabajo con un enfoque de *vibe coding*: yo pongo la idea, el diseño y el criterio, y la inteligencia artificial me ayuda a escribir código, resolver errores y aprender más rápido. Para mí la IA no reemplaza entender lo que hago; cada proyecto es una oportunidad de aprender algo nuevo, desde cómo funciona una API hasta cómo proteger los datos de quien usa mis aplicaciones.
+
+Mi meta es seguir creciendo como desarrollador, especializarme en **ciberseguridad** y construir productos útiles, seguros y respetuosos con la privacidad.
 
 - 🎓 Estudio **Ingeniería de Software** (5.º semestre).
 - 🛠️ Me gusta construir **apps web con Django**, proyectos de **visión por computadora** con OpenCV y **extensiones de navegador**.
