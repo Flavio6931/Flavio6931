@@ -24,7 +24,7 @@ Aquí tienes una vista rápida de las tecnologías que utilizo en mis proyectos:
 ## 📫 Contacto
 
 - ✉️ Correo: [alexpc778@gmail.com](mailto:alexpc778@gmail.com)
-- 🌐 Web: [flavio6931.github.io](https://flavio6931.github.io/)
+- 🌐 Portafolio: [flavio6931.github.io/portafolio](https://flavio6931.github.io/portafolio/)
 
 ## ☕ Apoya mi trabajo
 
