@@ -2,6 +2,15 @@
 
 Estudiante de **5.º semestre de Ingeniería de Software**. Mi fuerte es **Python**, y construyo mis proyectos apoyándome en la inteligencia artificial (*vibe coding*): yo pongo la idea y el criterio, la IA me ayuda a llegar más lejos y más rápido.
 
+- 🎓 Estudio **Ingeniería de Software** (5.º semestre).
+- 🛠️ Me gusta construir **apps web con Django**, proyectos de **visión por computadora** con OpenCV y **extensiones de navegador**.
+- 🛡️ Me apasiona la **ciberseguridad**.
+- 🔨 Ahora mismo estoy desarrollando **Correo Rápido**, una extensión para ver tus correos de Gmail sin abrir la pestaña.
+- 🔭 Estoy aprendiendo **inteligencia artificial** e **ingeniería inversa**.
+- 🏷️ Publico mis extensiones con la marca **Morales Devop**.
+- 🤝 Abierto a **prácticas** y **proyectos freelance**.
+- ⚡ Dato curioso: cuando no estoy programando, estoy jugando videojuegos 🎮.
+
 ## 💻 Stack Visual
 
 Aquí tienes una vista rápida de las tecnologías que utilizo en mis proyectos:
